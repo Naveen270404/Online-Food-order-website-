@@ -1,0 +1,45 @@
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+.order{
+    background-color: #E30011;
+    color: aliceblue;
+}
+.banner{
+    background-image: url(/main\ banner.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+.skills{
+    padding: 70px 0;
+}
+.second-banner{
+    background-image: url(/second\ banner.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+    
+}
+.color{
+    background-color: aliceblue;
+    width: 500px;
+    height: 300px;
+    
+}
+.banner-1{
+    background-color: #333333;
+    color: aliceblue;
+}
+.align{
+    align-items: center;
+    justify-content: center;
+}
+.contact-banner{
+    background-color: aliceblue;
+}
+.center {
+    margin-right: 10%;
+    margin-left: 10%;
+}
