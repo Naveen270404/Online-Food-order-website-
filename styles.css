@@ -7,7 +7,7 @@
     color: aliceblue;
 }
 .banner{
-    background-image: url(./main\ banner.jpg) ;
+    background-image: url(./main.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
@@ -16,7 +16,7 @@
     padding: 70px 0;
 }
 .second-banner{
-    background-image: url(./second\ banner.jpg) ;
+    background-image: url(./secondb.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
